@@ -1,6 +1,6 @@
 # Custom-WP-Table
 
-## a simple file to paste in your plugin / theme to use WP-Table
+ a simple file to paste in your plugin / theme to use WP-Table
 
 ### **Instruction:** Paste file in your desired location and use below code:
 
